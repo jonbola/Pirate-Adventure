@@ -7,8 +7,3 @@
  - Mục tiêu 5: Tạo 5 màn chơi
  - Mục tiêu 6: Tạo menu setting
  - Mục tiêu 7: Tạo chức năng tính điểm
-
-
-# Danh sách thành viên:
- - Nguyễn Văn Hoàng Phúc
- - Nguyễn Ngọc Thiện
